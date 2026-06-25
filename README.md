@@ -1,9 +1,6 @@
-# ab-test-online-cinema
-A/B testing analysis of an online cinema using Python and statistical methods
-A/B testing analysis of an online cinema using Python and statistical methods
-
-
 # A/B Test Analysis for an Online Cinema
+
+A/B testing analysis of an online cinema using Python and statistical methods
 
 ## Project Overview
 
