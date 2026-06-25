@@ -8,6 +8,11 @@ This project analyzes the results of an A/B test conducted in an online cinema s
 
 The analysis includes data validation, user segmentation, statistical hypothesis testing, and activity metrics evaluation.
 
+## Project Files
+
+- [Jupyter Notebook](online_cinema_ab_test.ipynb)
+- Dataset: data/Event_click.xlsx
+
 ## Tools & Technologies
 
 * Python
