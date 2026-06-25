@@ -8,11 +8,6 @@ This project analyzes the results of an A/B test conducted in an online cinema s
 
 The analysis includes data validation, user segmentation, statistical hypothesis testing, and activity metrics evaluation.
 
-## Project Files
-
-- [Jupyter Notebook](online_cinema_ab_test.ipynb)
-- Dataset: data/Event_click.xlsx
-
 ## Tools & Technologies
 
 * Python
@@ -21,6 +16,11 @@ The analysis includes data validation, user segmentation, statistical hypothesis
 * SciPy
 * Matplotlib
 * Jupyter Notebook
+
+## Project Files
+
+- [Jupyter Notebook](online_cinema_ab_test.ipynb)
+- Dataset: data/Event_click.xlsx
 
 ## Project Tasks
 
@@ -52,6 +52,23 @@ ab-test-online-cinema/
 * Analyzed user activity using DAU and WAU metrics
 * Formulated conclusions regarding the effectiveness of the tested changes
 
+## Key Findings
+
+- Cleaned and validated A/B test data.
+- Removed users assigned to multiple experiment groups.
+- Calculated conversion metrics for control and test groups.
+- Performed statistical hypothesis testing.
+- Evaluated the impact of product changes on user behavior.
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis
+- A/B Testing
+- Statistical Testing
+- Python (Pandas, NumPy, SciPy)
+- Data Visualization
+- 
 ## Author
 
-Daria — Junior Data Analyst
+Daria Sinitsyna — Junior Data Analyst
