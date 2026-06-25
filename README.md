@@ -2,8 +2,6 @@
 
 [Open Jupyter Notebook](./online_cinema_ab_test.ipynb)
 
-A/B testing analysis of an online cinema using Python and statistical methods.
-
 ## Project Overview
 
 This project analyzes the results of an A/B test conducted in an online cinema service to evaluate the impact of product changes on user activity.
@@ -21,6 +19,7 @@ The analysis includes data validation, user segmentation, statistical hypothesis
 
 ## Project Files
 
+- [Jupyter Notebook](online_cinema_ab_test.ipynb)
 - Dataset: data/Event_click.xlsx
 
 ## Project Tasks
@@ -33,16 +32,6 @@ The analysis includes data validation, user segmentation, statistical hypothesis
 * Conversion analysis
 * Statistical hypothesis testing (t-test)
 * DAU and WAU analysis
-
-## Project Structure
-
-```text
-ab-test-online-cinema/
-├── data/
-│   └── Event_click.xlsx
-├── online_cinema_ab_test.ipynb
-└── README.md
-```
 
 ## Results
 
