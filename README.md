@@ -1,6 +1,8 @@
 # A/B Test Analysis for an Online Cinema
 
-A/B testing analysis of an online cinema using Python and statistical methods
+[Open Jupyter Notebook](./online_cinema_ab_test.ipynb)
+
+A/B testing analysis of an online cinema using Python and statistical methods.
 
 ## Project Overview
 
@@ -19,7 +21,6 @@ The analysis includes data validation, user segmentation, statistical hypothesis
 
 ## Project Files
 
-- [Jupyter Notebook](online_cinema_ab_test.ipynb)
 - Dataset: data/Event_click.xlsx
 
 ## Project Tasks
